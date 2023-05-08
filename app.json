@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "nasa-react",
+    "slug": "nasa-react",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "nasa-react"
+}
